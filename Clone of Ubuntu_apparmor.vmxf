@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 71 d8 af 12 4a 5f 95-3c a2 4f 12 b3 80 62 ec</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">Clone of Ubuntu_apparmor.vmx</vmxPathName></VM></Foundry>

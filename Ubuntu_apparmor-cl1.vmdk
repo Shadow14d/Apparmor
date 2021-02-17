@@ -1,0 +1,19 @@
+# Disk DescriptorFile
+version=1
+encoding="windows-1251"
+CID=4465a679
+parentCID=4465a679
+createType="twoGbMaxExtentSparse"
+parentFileNameHint="C:\Users\ִלטענטי\Documents\Virtual Machines\Ubuntu_apparmor\Ubuntu_apparmor-000001.vmdk"
+# Extent description
+RW 8323072 SPARSE "Ubuntu_apparmor-cl1-s001.vmdk"
+RW 8323072 SPARSE "Ubuntu_apparmor-cl1-s002.vmdk"
+RW 8323072 SPARSE "Ubuntu_apparmor-cl1-s003.vmdk"
+RW 8323072 SPARSE "Ubuntu_apparmor-cl1-s004.vmdk"
+RW 8323072 SPARSE "Ubuntu_apparmor-cl1-s005.vmdk"
+RW 327680 SPARSE "Ubuntu_apparmor-cl1-s006.vmdk"
+
+# The Disk Data Base 
+#DDB
+
+ddb.fcd.uuid = "00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00"
